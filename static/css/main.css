@@ -1,0 +1,106 @@
+#title {
+    color: #3b5768;
+    font-weight: 900;
+    letter-spacing: 2.5px;
+}
+
+.content {
+    margin: 5%;
+}
+
+.content h1 {
+    text-align: center;
+}
+
+.paragraph1 {
+    padding-top: 1.5%;
+    line-height: 30px;
+    text-indent: 30px;
+    font-size: 20px;
+    padding-bottom: 1.5%;
+}
+
+.bullet {
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.image {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.submitBtn {
+    margin: 20px;
+    /* background-color: black; */
+}
+
+#start {
+    display: block;
+    /* Set the button to display as a block element */
+    margin: 0 auto;
+    /* Set the left and right margin to auto to center horizontally */
+    text-align: center;
+    /* Center the text inside the button */
+}
+
+#start_anchor {
+    text-decoration: none;
+}
+
+#capture {
+    display: block;
+    /* Set the button to display as a block element */
+    margin: 0 auto;
+    /* Set the left and right margin to auto to center horizontally */
+    text-align: center;
+    /* Center the text inside the button */
+}
+
+#video {
+    border: 1px solid black;
+    width: 320px;
+    height: 240px;
+}
+
+#photo {
+    border: 1px solid black;
+    width: 320px;
+    height: 240px;
+}
+
+#canvas {
+    display: none;
+}
+
+.camera {
+    width: 340px;
+    display: inline-block;
+}
+
+.output {
+    width: 340px;
+    display: inline-block;
+}
+
+
+/* #startbutton {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 36px;
+    padding: 5px;
+    background-color: #000000;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    font-size: 14px;
+    color: rgba(255, 255, 255, 1.0);
+    cursor: pointer;
+} */
+
+.contentarea {
+    /* font-size: 16px; */
+    /* font-family: Arial; */
+    text-align: center;
+}
